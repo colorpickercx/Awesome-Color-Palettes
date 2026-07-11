@@ -19,6 +19,7 @@
 - http://palette.site
 - https://material.colorion.co
 - https://colorkitty.com/
+- https://colorpicker.cx
 
 ## MAC & iOS
 
